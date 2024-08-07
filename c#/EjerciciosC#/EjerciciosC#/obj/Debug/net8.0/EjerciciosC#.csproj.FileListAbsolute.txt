@@ -1,0 +1,14 @@
+D:\Datos\Descargas\c#\EjerciciosC#\EjerciciosC#\bin\Debug\net8.0\EjerciciosC#.exe
+D:\Datos\Descargas\c#\EjerciciosC#\EjerciciosC#\bin\Debug\net8.0\EjerciciosC#.deps.json
+D:\Datos\Descargas\c#\EjerciciosC#\EjerciciosC#\bin\Debug\net8.0\EjerciciosC#.runtimeconfig.json
+D:\Datos\Descargas\c#\EjerciciosC#\EjerciciosC#\bin\Debug\net8.0\EjerciciosC#.dll
+D:\Datos\Descargas\c#\EjerciciosC#\EjerciciosC#\bin\Debug\net8.0\EjerciciosC#.pdb
+D:\Datos\Descargas\c#\EjerciciosC#\EjerciciosC#\obj\Debug\net8.0\EjerciciosC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos\Descargas\c#\EjerciciosC#\EjerciciosC#\obj\Debug\net8.0\EjerciciosC#.AssemblyInfoInputs.cache
+D:\Datos\Descargas\c#\EjerciciosC#\EjerciciosC#\obj\Debug\net8.0\EjerciciosC#.AssemblyInfo.cs
+D:\Datos\Descargas\c#\EjerciciosC#\EjerciciosC#\obj\Debug\net8.0\EjerciciosC#.csproj.CoreCompileInputs.cache
+D:\Datos\Descargas\c#\EjerciciosC#\EjerciciosC#\obj\Debug\net8.0\EjerciciosC#.dll
+D:\Datos\Descargas\c#\EjerciciosC#\EjerciciosC#\obj\Debug\net8.0\refint\EjerciciosC#.dll
+D:\Datos\Descargas\c#\EjerciciosC#\EjerciciosC#\obj\Debug\net8.0\EjerciciosC#.pdb
+D:\Datos\Descargas\c#\EjerciciosC#\EjerciciosC#\obj\Debug\net8.0\EjerciciosC#.genruntimeconfig.cache
+D:\Datos\Descargas\c#\EjerciciosC#\EjerciciosC#\obj\Debug\net8.0\ref\EjerciciosC#.dll

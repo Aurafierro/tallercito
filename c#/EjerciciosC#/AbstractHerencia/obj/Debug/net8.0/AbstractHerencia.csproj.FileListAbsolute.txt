@@ -1,0 +1,14 @@
+D:\Datos\Descargas\c#\EjerciciosC#\AbstractHerencia\bin\Debug\net8.0\AbstractHerencia.exe
+D:\Datos\Descargas\c#\EjerciciosC#\AbstractHerencia\bin\Debug\net8.0\AbstractHerencia.deps.json
+D:\Datos\Descargas\c#\EjerciciosC#\AbstractHerencia\bin\Debug\net8.0\AbstractHerencia.runtimeconfig.json
+D:\Datos\Descargas\c#\EjerciciosC#\AbstractHerencia\bin\Debug\net8.0\AbstractHerencia.dll
+D:\Datos\Descargas\c#\EjerciciosC#\AbstractHerencia\bin\Debug\net8.0\AbstractHerencia.pdb
+D:\Datos\Descargas\c#\EjerciciosC#\AbstractHerencia\obj\Debug\net8.0\AbstractHerencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos\Descargas\c#\EjerciciosC#\AbstractHerencia\obj\Debug\net8.0\AbstractHerencia.AssemblyInfoInputs.cache
+D:\Datos\Descargas\c#\EjerciciosC#\AbstractHerencia\obj\Debug\net8.0\AbstractHerencia.AssemblyInfo.cs
+D:\Datos\Descargas\c#\EjerciciosC#\AbstractHerencia\obj\Debug\net8.0\AbstractHerencia.csproj.CoreCompileInputs.cache
+D:\Datos\Descargas\c#\EjerciciosC#\AbstractHerencia\obj\Debug\net8.0\AbstractHerencia.dll
+D:\Datos\Descargas\c#\EjerciciosC#\AbstractHerencia\obj\Debug\net8.0\refint\AbstractHerencia.dll
+D:\Datos\Descargas\c#\EjerciciosC#\AbstractHerencia\obj\Debug\net8.0\AbstractHerencia.pdb
+D:\Datos\Descargas\c#\EjerciciosC#\AbstractHerencia\obj\Debug\net8.0\AbstractHerencia.genruntimeconfig.cache
+D:\Datos\Descargas\c#\EjerciciosC#\AbstractHerencia\obj\Debug\net8.0\ref\AbstractHerencia.dll
